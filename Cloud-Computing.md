@@ -70,8 +70,8 @@ Buy and maintain hardware
      |
      v
 Run application
-
-
+     |
+     v
 Cloud Computing
      |
      v
